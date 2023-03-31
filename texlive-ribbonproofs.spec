@@ -1,6 +1,6 @@
 Name:		texlive-ribbonproofs
 Version:	31137
-Release:	1
+Release:	2
 Summary:	Drawing ribbon proofs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ribbonproofs
