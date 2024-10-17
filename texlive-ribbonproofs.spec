@@ -3,7 +3,7 @@ Version:	31137
 Release:	2
 Summary:	Drawing ribbon proofs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ribbonproofs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ribbonproofs
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ribbonproofs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ribbonproofs.doc.r%{version}.tar.xz
